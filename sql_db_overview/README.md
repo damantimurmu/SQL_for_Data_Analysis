@@ -1,5 +1,5 @@
 # E-Commerce Dataset
-Step-by-step processes for creating a `database`, `importing` CSV files, and `exploring` tables.
+Step-by-step processes for creating a `database`, `importing` CSV files, `schema` and `ERD` diagram.
 
 ### Creating Database (MySQL)
 ![image](https://github.com/user-attachments/assets/5f0738c4-8dc4-4eaa-89fd-aac3d137ba7d)
