@@ -32,13 +32,13 @@ Use SQL queries to analyze key aspects of an E-commerce dataset and uncover busi
 
 ### GitHub Structure
 
-| Folder/File Name         | Description                                                    |
-|--------------------------|----------------------------------------------------------------|
-| `README.md`              | Main guide with objective, tools, questions, and how-to steps |
-| `raw_data/`              | Contains all uncleaned `.csv` files                           |
-| `sql_db/README.md`       | Includes `Ecommerce_db.sql` file and ERD file (`ecommerce_erd.mwb`)/ All SQL queries used in the project             |
-| `sql_db_overview/`       | Step-by-step instructions for creating DB in MySQL Workbench  |
-| `summary.md`             | Executive summary of findings and insights                    |
+| Folder/File Name         | Description                                                         |
+|--------------------------|---------------------------------------------------------------------|
+| `README.md`              | Main guide with objective, tools, and brief description of datasets |
+| `raw_data/README.md`     | Contains all uncleaned `.csv` files                                 |
+| `sql_db/README.md`       | Includes `Ecommerce_DB.sql`, `Overview_of_Ecommerce_DB_Tables.sql` and ERD file (`ecommerce_erd.mwb`)/ All SQL queries used in the project with screenshot of output results |
+| `sql_db_overview/`       | Step-by-step instructions for creating DB in MySQL Workbench        |
+| `summary.md`             | Executive summary of findings and insights                          |
 
 ---
 
