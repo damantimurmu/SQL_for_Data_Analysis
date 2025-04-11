@@ -39,10 +39,11 @@ Use SQL queries to analyze key aspects of an E-commerce dataset and uncover busi
 | `sql_db/README.md`       | Includes `Ecommerce_DB.sql`, `Overview_of_Ecommerce_DB_Tables.sql` and ERD file (`ecommerce_erd.mwb`)/ All SQL queries used in the project with screenshot of output results |
 | `sql_db_overview/`       | Step-by-step instructions for creating DB in MySQL Workbench        |
 | `summary.md`             | Executive summary of findings and insights                          |
+| `recommendation.md`      | Proposed recommendation                                              |
 
 ---
 
-##    SQL queries used:
+## SQL queries used:
 
 | TYPES | QUERIES |
 |-------|---------|
