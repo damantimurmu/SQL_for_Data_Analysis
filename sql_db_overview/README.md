@@ -28,7 +28,8 @@ Step-by-step processes for creating a `database`, `importing` CSV files, and `ex
 ![Screenshot 2025-04-11 020437](https://github.com/user-attachments/assets/e401aac7-ded3-4099-add9-e0fc89cf46dd)
 
 ### Schema overview with Table
-![image](https://github.com/user-attachments/assets/f41c99ff-2bcc-49b6-b11d-16ace1a4f770)
+![image](https://github.com/user-attachments/assets/c8facf37-13a2-4e30-ab14-35c9d9dac28a)
 
 ### ERD
-![ecommerce_erd](https://github.com/user-attachments/assets/582c4189-c0f2-44d2-9afc-371682a8fc43)
+![ecommerce_erd](https://github.com/user-attachments/assets/789988f0-2e16-4c30-ad95-19c21a9d2d7a)
+
