@@ -66,6 +66,6 @@ Use SQL queries to analyze key aspects of an E-commerce dataset and uncover busi
 - Save commonly used queries as views or stored procedures.
 
 ## Author
-Damanti Murmu
+**_Damanti Murmu_**
 Aspiring Business and Data Analyst | 
 [LinkedIn](https://www.linkedin.com/in/damantimurmu/)
