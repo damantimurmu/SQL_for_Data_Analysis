@@ -65,7 +65,9 @@ Use SQL queries to analyze key aspects of an E-commerce dataset and uncover busi
 - Index foreign keys like customer_id, order_id, and product_id.
 - Save commonly used queries as views or stored procedures.
 
+---   
+
 ## Author
-**_Damanti Murmu_**
+**Damanti Murmu**      
 Aspiring Business and Data Analyst | 
 [LinkedIn](https://www.linkedin.com/in/damantimurmu/)
