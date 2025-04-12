@@ -30,6 +30,6 @@ Step-by-step processes for creating a `database`, `importing` CSV files, `schema
 ### Schema overview with Table
 ![image](https://github.com/user-attachments/assets/c8facf37-13a2-4e30-ab14-35c9d9dac28a)
 
-### ERD
+### ERD (Entity Relationship Diagram)
 ![ecommerce_erd](https://github.com/user-attachments/assets/789988f0-2e16-4c30-ad95-19c21a9d2d7a)
 
